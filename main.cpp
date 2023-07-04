@@ -8,7 +8,7 @@
 
 using namespace std;
 
-void initMovie(BST *bst)
+void initMovie(BST *bst) // this works but could rethink
 {
     int response_value = -1;
     string movieName;
